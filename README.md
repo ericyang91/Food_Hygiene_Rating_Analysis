@@ -1,6 +1,6 @@
 # Food_Hygiene_Rating_Analysis
 </br>
-https://github.com/ericyang91/Food_Hygiene_Rating_Analysis/blob/main/NoSQL_setup_starter.ipynb
+
 ## Purpose:
 
   The purpose of this project is to lay the groundwork for evaluation of various establishments across the UK. It uses <a href= "https://www.mongodb.com"> <b>MongoDB</b></a> to create a database and to import the data and <a href= "https://pymongo.readthedocs.io/en/stable/"> <b>PyMongo</b></a> to make different queries that are needed for analytical work.
