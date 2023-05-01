@@ -1,5 +1,4 @@
-# Food_Hygiene_Rating_Analysis
-</br>
+# Food Hygiene Rating Analysis
 
 ## Purpose:
 
@@ -15,9 +14,9 @@
 </br>
 
 ## Languages and Libraries:
-</br>
 
-`python v.3.9.12`
-`jupyter notebook v.6.4.8`
-`pandas v.1.4.2`
-`MongoDB v.6.0.4`
+[![Python](https://img.shields.io/badge/python-v3.10-blue)](https://www.python.org/downloads/release/python-310/)
+[![Pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)](https://pandas.pydata.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-v5.0.5-green)](https://www.mongodb.com/)
+[![PyMongo](https://img.shields.io/badge/PyMongo-v3.12.0-green)](https://pypi.org/project/pymongo/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
