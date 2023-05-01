@@ -1,5 +1,5 @@
 # Food Hygiene Rating Analysis
-[food](https://github.com/ericyang91/Food_Hygiene_Rating_Analysis/blob/main/image.jpeg)
+![food](https://github.com/ericyang91/Food_Hygiene_Rating_Analysis/blob/main/image.jpeg)
 
 ## Purpose:
 
